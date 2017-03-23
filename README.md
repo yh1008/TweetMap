@@ -12,7 +12,7 @@ v1/npm install
 v1/ npm start
 ```
 
-Try the frontend written in the latest Angular2 tyoe:
+Try the frontend written in the latest Angular2 type:
 ```
 v2/npm install
 v2/ng serve
